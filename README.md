@@ -1,4 +1,5 @@
 # Handwriting OCR MCP Server
+[![smithery badge](https://smithery.ai/badge/@Handwriting-OCR/handwriting-ocr-mcp-server)](https://smithery.ai/server/@Handwriting-OCR/handwriting-ocr-mcp-server)
 
 A Model Context Protocol (MCP) Server for [Handwriting OCR](https://www.handwritingocr.com) API.
 
@@ -24,6 +25,14 @@ Before you begin, ensure you have the following:
 *   An active account on the [Handwriting OCR Platform](https://www.handwritingocr.com) and an active [API token](https://www.handwritingocr.com/settings/api).
 
 ## Installation
+
+### Installing via Smithery
+
+To install handwriting-ocr-mcp-server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Handwriting-OCR/handwriting-ocr-mcp-server):
+
+```bash
+npx -y @smithery/cli install @Handwriting-OCR/handwriting-ocr-mcp-server --client claude
+```
 
 ### Installing manually for Claude Desktop
 
